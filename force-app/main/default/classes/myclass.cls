@@ -1,4 +1,5 @@
 public with sharing class myclass {
+	//This is a comment
 	public myclass() {
 
 	}
